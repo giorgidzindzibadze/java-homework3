@@ -5,7 +5,7 @@ import ge.tbc.testautomation.abstractClassesInterfaces.interfaces.IValidCircle;
 import ge.tbc.testautomation.exceptionsStringOperationsRegex.LimitException;
 import ge.tbc.testautomation.exceptionsStringOperationsRegex.RadiusException;
 import ge.tbc.testautomation.javaoop.figures.Circle;
-import ge.tbc.testautomation.javaoop.figures.Figure;
+//import ge.tbc.testautomation.javaoop.figures.Figure;
 //import ge.tbc.testautomation.javaoop.figures.Rectangle;
 //import ge.tbc.testautomation.javaoop.figures.Triangle;
 //import ge.tbc.testautomation.javaoop.util.HelperFunctions;

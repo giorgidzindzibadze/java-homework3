@@ -1,4 +1,4 @@
-package ge.tbc.testautomation.javaoop.figures;
+package main.java.ge.tbc.testautomation.javaoop.figures;
 
 public abstract class Figure {
     public abstract double getArea();
