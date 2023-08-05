@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+@SuppressWarnings("unused")
 public class Analyzable  {
 
     @VariableNameAnnotation(name = "Integer")
